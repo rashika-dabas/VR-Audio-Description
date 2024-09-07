@@ -1,5 +1,5 @@
 # VR Audio Description Using Autoencoders
-## Description
+## Task
 Finetuning with ChatGPT using a Customized Synthetic Dataset to Describe Audio for Activity in VR
 ## Steps
 1. Generate synthetic dataset via OpenAI
