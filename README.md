@@ -1,6 +1,6 @@
 # VR Audio Description Using Autoencoders
 ## Task
-Finetuning with GPT Models using a Customized Synthetic Dataset to Describe Audio for Activity in VR
+Finetuning with GPT Model using a Customized Synthetic Dataset to Describe Audio for Activity in VR
 ## Action Items
 1. Generate synthetic dataset via OpenAI's gpt-4 model
 2. Autoencoder training to reduce dimensionality
